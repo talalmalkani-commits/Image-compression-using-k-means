@@ -1,0 +1,14 @@
+image-compression-kmeans/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── kmeans_compression.py
+├── utils.py
+│
+├── images/
+│   ├── input.jpg
+│   └── compressed_output.jpg
+│
+└── results/
+    └── comparison.png
